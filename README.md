@@ -2,6 +2,10 @@
 
 check using read me to exchange information
 
+help me create a conversation realted to order drink in a cafe in traditional chinese, give me both pinyin and traditional chinese.
+
+use some word: cha(tea), kafei, baozi, laoban(boss). First like hi lao ban, laoban ask u ni yao he shenme ? i tell them i wanna  bei of kafei,  bei wu lung cha and a baozi. laoban asked me how many cup each type of drinks i wanna have.  do you wanna waidai or neiyong. re or bing cafe/cha. what about sugar and ice amount like shao tang liang and shao lung liang. after that ask the labao about the price of each and total
+
 ☕ Café Conversation with Prices
 你（Nǐ）:
 你好，老闆！
